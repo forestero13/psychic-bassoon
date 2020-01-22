@@ -1,1 +1,1 @@
-print ("Ivan is a Furry")
+print ("Ivan kinda dated a Furry and thats ok")
